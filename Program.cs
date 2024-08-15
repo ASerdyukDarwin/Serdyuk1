@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var myAge = 33;
+int myAge = 120;
+int newAge = mayAge + 5;
+Console.WriteLine(newAge);
+
